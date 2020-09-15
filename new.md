@@ -5,3 +5,8 @@
 
 ## My website
 [Medium](https://medium.com/)
+
+### My favourite data science topics
+1. Machine Learning Pipelines
+2. Neural Architecture Search
+3. Attention Layers
